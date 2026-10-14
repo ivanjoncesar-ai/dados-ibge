@@ -1,0 +1,421 @@
+﻿index;Nível Territorial (Código);Nível Territorial;Unidade de Medida (Código);Unidade de Medida;taxa_alfabetizacao;Município (Código);Município;Variável (Código);Variável;Ano (Código);Ano;Sexo (Código);Cor ou raça (Código);Idade (Código);Idade;zscore
+24;6;Município;2;%;77.78;1100072;Corumbiara - RO;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-4.6993054345740335
+143;6;Município;2;%;80.0;1101005;Governador Jorge Teixeira - RO;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-4.056174818950401
+214;6;Município;2;%;88.89;1200054;Assis Brasil - AC;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-3.216663739618326
+263;6;Município;2;%;83.33;1200393;Porto Walter - AC;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-3.337259583907237
+297;6;Município;2;%;50.0;1300029;Alvarães - AM;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-6.2824195374465015
+391;6;Município;2;%;83.33;1301605;Fonte Boa - AM;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-3.337259583907237
+395;6;Município;2;%;80.0;1301654;Guajará - AM;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-4.056174818950401
+415;6;Município;2;%;66.67;1301951;Itamarati - AM;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-6.933994663732797
+421;6;Município;2;%;50.0;1302108;Japurá - AM;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-6.2824195374465015
+449;6;Município;2;%;73.33;1302702;Manicoré - AM;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-3.1565190969167305
+492;6;Município;2;%;75.0;1303601;Santa Isabel do Rio Negro - AM;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-5.357427225881174
+582;6;Município;2;%;87.5;1400407;Normandia - RR;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-3.6706352386496226
+668;6;Município;2;%;83.33;1501253;Bannach - PA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-3.3854291965328027
+683;6;Município;2;%;70.0;1501451;Belterra - PA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-6.215079428689633
+693;6;Município;2;%;66.67;1501600;Bonito - PA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-4.048867872481594
+694;6;Município;2;%;89.47;1501600;Bonito - PA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-3.027236783188002
+706;6;Município;2;%;85.71;1501758;Brejo Grande do Araguaia - PA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-4.255246017977697
+792;6;Município;2;%;83.33;1503002;Faro - PA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-3.3854291965328027
+907;6;Município;2;%;80.0;1504901;Muaná - PA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-4.056174818950401
+955;6;Município;2;%;80.0;1505494;Palestina do Pará - PA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-4.056174818950401
+967;6;Município;2;%;66.67;1505551;Pau D'Arco - PA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-6.933994663732797
+968;6;Município;2;%;75.0;1505601;Peixe-Boi - PA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-5.357427225881174
+971;6;Município;2;%;66.67;1505601;Peixe-Boi - PA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-6.933994663732797
+1180;6;Município;2;%;71.43;1600055;Serra do Navio - AP;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-6.202569238459045
+1187;6;Município;2;%;80.0;1600105;Amapá - AP;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-4.056174818950401
+1196;6;Município;2;%;71.43;1600212;Cutias - AP;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-6.202569238459045
+1253;6;Município;2;%;66.67;1700350;Aliança do Tocantins - TO;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-4.048867872481594
+1256;6;Município;2;%;66.67;1700400;Almas - TO;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-7.329425255229544
+1342;6;Município;2;%;85.71;1703305;Bom Jesus do Tocantins - TO;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-4.255246017977697
+1430;6;Município;2;%;88.89;1707207;Dois Irmãos do Tocantins - TO;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-3.216663739618326
+1440;6;Município;2;%;75.0;1707553;Fátima - TO;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-5.357427225881174
+1476;6;Município;2;%;66.67;1709807;Ipueiras - TO;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-7.329425255229544
+1484;6;Município;2;%;81.82;1710706;Itaguatins - TO;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-3.7428982270629407
+1497;6;Município;2;%;33.33;1711506;Jaú do Tocantins - TO;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-8.515971202411409
+1503;6;Município;2;%;75.0;1711803;Juarina - TO;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-5.135627123820018
+1535;6;Município;2;%;66.67;1712702;Mateiros - TO;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-6.933994663732797
+1538;6;Município;2;%;80.0;1712801;Maurilândia do Tocantins - TO;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-6.12012174421417
+1556;6;Município;2;%;75.0;1713809;Palmeiras do Tocantins - TO;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-5.357427225881174
+1578;6;Município;2;%;83.33;1715002;Nova Rosalândia - TO;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-5.032549735743512
+1596;6;Município;2;%;80.0;1715705;Palmeirante - TO;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-4.173754939357541
+1599;6;Município;2;%;66.67;1715705;Palmeirante - TO;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-6.933994663732797
+1646;6;Município;2;%;75.0;1717800;Ponte Alta do Bom Jesus - TO;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-7.753112747923869
+1668;6;Município;2;%;75.0;1718451;Pugmil - TO;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-5.357427225881174
+1674;6;Município;2;%;75.0;1718501;Recursolândia - TO;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-7.753112747923869
+1742;6;Município;2;%;87.5;1720309;São Sebastião do Tocantins - TO;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-3.6706352386496226
+1804;6;Município;2;%;66.67;2100105;Afonso Cunha - MA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-7.329425255229544
+1809;6;Município;2;%;66.67;2100154;Água Doce do Maranhão - MA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-4.048867872481594
+1821;6;Município;2;%;60.0;2100402;Altamira do Maranhão - MA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-4.942556511072832
+1839;6;Município;2;%;50.0;2100550;Amapá do Maranhão - MA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-10.532888648168099
+1851;6;Município;2;%;75.0;2100808;Anapurus - MA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-5.135627123820018
+1889;6;Município;2;%;66.67;2101350;Bacurituba - MA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-4.048867872481594
+1919;6;Município;2;%;75.0;2101806;Benedito Leite - MA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-5.135627123820018
+1924;6;Município;2;%;83.33;2101939;Bernardo do Mearim - MA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-3.3854291965328027
+1927;6;Município;2;%;66.67;2101939;Bernardo do Mearim - MA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-6.933994663732797
+1949;6;Município;2;%;66.67;2102150;Brejo de Areia - MA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-4.048867872481594
+1953;6;Município;2;%;69.23;2102200;Buriti - MA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-3.7058629377299344
+1969;6;Município;2;%;66.67;2102374;Cachoeira Grande - MA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-4.048867872481594
+1992;6;Município;2;%;75.0;2102754;Capinzal do Norte - MA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-5.357427225881174
+1995;6;Município;2;%;75.0;2102754;Capinzal do Norte - MA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-5.135627123820018
+2069;6;Município;2;%;71.43;2104008;Esperantinópolis - MA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-3.4110930719277266
+2078;6;Município;2;%;87.5;2104073;Feira Nova do Maranhão - MA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-3.6706352386496226
+2136;6;Município;2;%;81.82;2104909;Guimarães - MA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-3.7428982270629407
+2172;6;Município;2;%;84.21;2105450;Jatobá - MA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-3.1771028741046443
+2175;6;Município;2;%;66.67;2105450;Jatobá - MA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-6.933994663732797
+2196;6;Município;2;%;81.25;2105807;Lago do Junco - MA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-3.877836867726633
+2209;6;Município;2;%;71.43;2105948;Lago dos Rodrigues - MA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-3.4110930719277266
+2269;6;Município;2;%;72.73;2106706;Mirador - MA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-3.23691087849915
+2301;6;Município;2;%;66.67;2107308;Nova Iorque - MA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-4.048867872481594
+2303;6;Município;2;%;71.43;2107308;Nova Iorque - MA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-5.906356069496922
+2377;6;Município;2;%;73.68;2108702;Pio XII - MA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-3.109623890993651
+2385;6;Município;2;%;60.0;2108900;Poção de Pedras - MA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-4.942556511072832
+2424;6;Município;2;%;84.62;2109502;Riachão - MA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-3.080041746609704
+2440;6;Município;2;%;84.62;2109759;Santa Filomena do Maranhão - MA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-3.080041746609704
+2507;6;Município;2;%;80.0;2110856;São Francisco do Brejão - MA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-4.056174818950401
+2509;6;Município;2;%;71.43;2110906;São Francisco do Maranhão - MA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-3.4110930719277266
+2572;6;Município;2;%;84.62;2111706;São Vicente Ferrer - MA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-3.080041746609704
+2608;6;Município;2;%;83.87;2112100;Timbiras - MA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-3.2575925895882487
+2686;6;Município;2;%;87.5;2200277;Alegrete do Piauí - PI;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-3.6706352386496226
+2698;6;Município;2;%;85.71;2200459;Alvorada do Gurguéia - PI;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-4.255246017977697
+2699;6;Município;2;%;83.33;2200459;Alvorada do Gurguéia - PI;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-3.337259583907237
+2700;6;Município;2;%;83.33;2200509;Amarante - PI;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-3.3854291965328027
+2706;6;Município;2;%;85.71;2200608;Angical do Piauí - PI;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-4.255246017977697
+2710;6;Município;2;%;89.47;2200707;Anísio de Abreu - PI;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-3.027236783188002
+2713;6;Município;2;%;60.0;2200806;Antônio Almeida - PI;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-4.942556511072832
+2719;6;Município;2;%;83.33;2200905;Aroazes - PI;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-3.337259583907237
+2733;6;Município;2;%;66.67;2201101;Avelino Lopes - PI;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-4.048867872481594
+2740;6;Município;2;%;83.33;2201176;Barra D'Alcântara - PI;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-3.3854291965328027
+2779;6;Município;2;%;80.0;2201739;Betânia do Piauí - PI;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-4.056174818950401
+2796;6;Município;2;%;81.25;2201929;Bonfim do Piauí - PI;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-3.877836867726633
+2799;6;Município;2;%;66.67;2201929;Bonfim do Piauí - PI;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-6.933994663732797
+2800;6;Município;2;%;71.43;2201945;Boqueirão do Piauí - PI;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-6.202569238459045
+2839;6;Município;2;%;83.33;2202109;Campinas do Piauí - PI;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-3.337259583907237
+2845;6;Município;2;%;71.43;2202133;Campo Grande do Piauí - PI;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-3.4110930719277266
+2850;6;Município;2;%;75.0;2202174;Campo Largo do Piauí - PI;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-7.753112747923869
+2857;6;Município;2;%;60.0;2202251;Canavieira - PI;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-4.942556511072832
+2875;6;Município;2;%;75.0;2202505;Caracol - PI;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-5.135627123820018
+2898;6;Município;2;%;75.0;2202711;Cocal de Telha - PI;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-7.753112747923869
+2910;6;Município;2;%;85.71;2202752;Colônia do Gurguéia - PI;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-4.255246017977697
+2945;6;Município;2;%;66.67;2203255;Curralinhos - PI;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-4.048867872481594
+2952;6;Município;2;%;80.95;2203305;Demerval Lobão - PI;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-3.9488572049180504
+3000;6;Município;2;%;75.0;2204006;Francinópolis - PI;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-5.357427225881174
+3008;6;Município;2;%;80.0;2204154;Francisco Macedo - PI;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-4.173754939357541
+3067;6;Município;2;%;66.67;2205151;Jacobina do Piauí - PI;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-6.933994663732797
+3072;6;Município;2;%;83.33;2205250;Jardim do Mulato - PI;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-3.3854291965328027
+3074;6;Município;2;%;80.0;2205250;Jardim do Mulato - PI;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-6.12012174421417
+3078;6;Município;2;%;83.33;2205276;Jatobá do Piauí - PI;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-5.032549735743512
+3080;6;Município;2;%;83.33;2205300;Jerumenha - PI;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-3.3854291965328027
+3104;6;Município;2;%;66.67;2205524;Júlio Borges - PI;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-7.329425255229544
+3106;6;Município;2;%;66.67;2205524;Júlio Borges - PI;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-10.473675760104227
+3133;6;Município;2;%;66.67;2205599;Lagoa do Sítio - PI;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-4.048867872481594
+3134;6;Município;2;%;88.89;2205599;Lagoa do Sítio - PI;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-3.216663739618326
+3148;6;Município;2;%;81.82;2205854;Madeiro - PI;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-3.7428982270629407
+3167;6;Município;2;%;66.67;2206050;Massapê do Piauí - PI;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-6.933994663732797
+3222;6;Município;2;%;88.89;2206803;Nossa Senhora dos Remédios - PI;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-3.216663739618326
+3239;6;Município;2;%;50.0;2207108;Olho D'Água do Piauí - PI;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-10.532888648168099
+3261;6;Município;2;%;66.67;2207553;Paquetá - PI;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-4.048867872481594
+3298;6;Município;2;%;80.0;2207934;Pedro Laurentino - PI;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-6.12012174421417
+3368;6;Município;2;%;66.67;2209153;Santa Cruz dos Milagres - PI;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-7.329425255229544
+3386;6;Município;2;%;88.89;2209377;Santa Rosa do Piauí - PI;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-3.216663739618326
+3396;6;Município;2;%;80.0;2209500;Santo Inácio do Piauí - PI;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-4.173754939357541
+3404;6;Município;2;%;66.67;2209609;São Félix do Piauí - PI;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-7.329425255229544
+3411;6;Município;2;%;66.67;2209658;São Francisco de Assis do Piauí - PI;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-6.933994663732797
+3449;6;Município;2;%;50.0;2210052;São José do Divino - PI;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-6.2824195374465015
+3457;6;Município;2;%;50.0;2210201;São José do Piauí - PI;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-6.2824195374465015
+3466;6;Município;2;%;85.71;2210359;São Lourenço do Piauí - PI;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-4.255246017977697
+3492;6;Município;2;%;80.0;2210623;Sebastião Barros - PI;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-4.173754939357541
+3512;6;Município;2;%;66.67;2210904;Socorro do Piauí - PI;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-7.329425255229544
+3514;6;Município;2;%;66.67;2210904;Socorro do Piauí - PI;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-10.473675760104227
+3517;6;Município;2;%;66.67;2210938;Sussuapara - PI;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-4.048867872481594
+3522;6;Município;2;%;66.67;2210953;Tamboril do Piauí - PI;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-10.473675760104227
+3527;6;Município;2;%;50.0;2210979;Tanque do Piauí - PI;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-10.532888648168099
+3544;6;Município;2;%;83.33;2211357;Várzea Branca - PI;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-3.3854291965328027
+3583;6;Município;2;%;80.0;2300408;Aiuaba - CE;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-4.056174818950401
+3585;6;Município;2;%;50.0;2300507;Alcântaras - CE;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-6.2824195374465015
+3813;6;Município;2;%;66.67;2304657;Graça - CE;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-4.048867872481594
+3821;6;Município;2;%;50.0;2304806;Granjeiro - CE;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-6.2824195374465015
+3835;6;Município;2;%;75.0;2305001;Guaraciaba do Norte - CE;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-5.135627123820018
+3849;6;Município;2;%;60.0;2305266;Ibaretama - CE;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-4.942556511072832
+4081;6;Município;2;%;66.67;2309904;Pacujá - CE;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-4.048867872481594
+4083;6;Município;2;%;50.0;2309904;Pacujá - CE;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-10.532888648168099
+4114;6;Município;2;%;88.89;2310605;Penaforte - CE;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-3.216663739618326
+4146;6;Município;2;%;88.89;2311207;Potengi - CE;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-3.216663739618326
+4223;6;Município;2;%;71.43;2312700;Senador Pompeu - CE;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-5.906356069496922
+4224;6;Município;2;%;50.0;2312809;Senador Sá - CE;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-11.275788658499334
+4235;6;Município;2;%;66.67;2313005;Solonópole - CE;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-6.933994663732797
+4282;6;Município;2;%;86.27;2313807;Uruburetama - CE;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-4.0723510255622095
+4319;6;Município;2;%;75.0;2400505;Alexandria - RN;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-5.135627123820018
+4362;6;Município;2;%;83.33;2401503;Barcelona - RN;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-5.032549735743512
+4368;6;Município;2;%;75.0;2401651;Bodó - RN;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-5.357427225881174
+4383;6;Município;2;%;50.0;2401859;Caiçara do Norte - RN;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-10.532888648168099
+4424;6;Município;2;%;83.33;2402907;Coronel João Pessoa - RN;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-3.3854291965328027
+4425;6;Município;2;%;66.67;2402907;Coronel João Pessoa - RN;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-4.048867872481594
+4469;6;Município;2;%;50.0;2403806;Florânia - RN;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-6.2824195374465015
+4492;6;Município;2;%;83.33;2404408;Grossos - RN;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-3.3854291965328027
+4568;6;Município;2;%;80.0;2406155;Jundiá - RN;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-4.173754939357541
+4632;6;Município;2;%;80.0;2407609;Messias Targino - RN;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-4.173754939357541
+4646;6;Município;2;%;77.78;2407906;Monte das Gameleiras - RN;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-6.8451697498612765
+4692;6;Município;2;%;84.0;2409100;Passa e Fica - RN;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-3.2268171101386356
+4695;6;Município;2;%;66.67;2409100;Passa e Fica - RN;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-6.933994663732797
+4707;6;Município;2;%;50.0;2409332;Santa Maria - RN;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-10.532888648168099
+4748;6;Município;2;%;83.33;2410306;Serra Caiada - RN;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-3.3854291965328027
+4767;6;Município;2;%;50.0;2410702;Riacho da Cruz - RN;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-10.532888648168099
+4768;6;Município;2;%;80.0;2410801;Riacho de Santana - RN;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-4.173754939357541
+4781;6;Município;2;%;50.0;2411056;Tibau - RN;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-6.2824195374465015
+4852;6;Município;2;%;83.33;2412708;São Pedro - RN;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-3.3854291965328027
+4919;6;Município;2;%;83.33;2414100;Tenente Ananias - RN;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-3.337259583907237
+4964;6;Município;2;%;77.78;2415008;Vila Flor - RN;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-4.6993054345740335
+4984;6;Município;2;%;84.38;2500502;Alagoinha - PB;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-3.1368580163628406
+4987;6;Município;2;%;66.67;2500502;Alagoinha - PB;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-6.933994663732797
+5011;6;Município;2;%;83.33;2500775;Aparecida - PB;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-3.337259583907237
+5015;6;Município;2;%;66.67;2500809;Araçagi - PB;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-6.933994663732797
+5023;6;Município;2;%;75.0;2501005;Araruna - PB;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-5.135627123820018
+5037;6;Município;2;%;25.0;2501302;Aroeiras - PB;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-9.632077103380677
+5044;6;Município;2;%;50.0;2501401;Baía da Traição - PB;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-11.275788658499334
+5085;6;Município;2;%;66.67;2502102;Boa Ventura - PB;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-4.048867872481594
+5143;6;Município;2;%;66.67;2503407;Cacimba de Areia - PB;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-6.933994663732797
+5147;6;Município;2;%;83.33;2503506;Cacimba de Dentro - PB;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-3.337259583907237
+5192;6;Município;2;%;84.62;2504207;Catingueira - PB;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-3.080041746609704
+5210;6;Município;2;%;87.5;2504504;Condado - PB;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-3.6706352386496226
+5217;6;Município;2;%;50.0;2504702;Congo - PB;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-6.2824195374465015
+5241;6;Município;2;%;50.0;2505204;Cuitegi - PB;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-6.2824195374465015
+5245;6;Município;2;%;50.0;2505238;Cuité de Mamanguape - PB;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-6.2824195374465015
+5281;6;Município;2;%;25.0;2505907;Emas - PB;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-9.632077103380677
+5352;6;Município;2;%;75.0;2507606;Juarez Távora - PB;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-5.357427225881174
+5353;6;Município;2;%;50.0;2507606;Juarez Távora - PB;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-6.2824195374465015
+5369;6;Município;2;%;66.67;2508000;Juru - PB;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-4.048867872481594
+5384;6;Município;2;%;80.0;2508406;Lastro - PB;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-4.173754939357541
+5385;6;Município;2;%;66.67;2508406;Lastro - PB;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-4.048867872481594
+5436;6;Município;2;%;80.0;2509339;Matinhas - PB;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-4.173754939357541
+5440;6;Município;2;%;50.0;2509370;Mato Grosso - PB;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-11.275788658499334
+5456;6;Município;2;%;83.33;2509602;Monte Horebe - PB;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-3.3854291965328027
+5473;6;Município;2;%;66.67;2510006;Nazarezinho - PB;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-4.048867872481594
+5483;6;Município;2;%;66.67;2510204;Nova Olinda - PB;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-6.933994663732797
+5551;6;Município;2;%;75.0;2511806;Pirpirituba - PB;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-5.135627123820018
+5564;6;Município;2;%;80.0;2512077;Poço de José de Moura - PB;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-4.173754939357541
+5581;6;Município;2;%;50.0;2512408;Puxinanã - PB;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-6.2824195374465015
+5604;6;Município;2;%;80.0;2512754;Riachão do Bacamarte - PB;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-4.173754939357541
+5639;6;Município;2;%;50.0;2513208;Santa Cruz - PB;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-10.532888648168099
+5644;6;Município;2;%;71.43;2513356;Santa Inês - PB;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-6.202569238459045
+5646;6;Município;2;%;88.89;2513356;Santa Inês - PB;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-3.216663739618326
+5701;6;Município;2;%;60.0;2514107;São João do Tigre - PB;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-4.942556511072832
+5707;6;Município;2;%;75.0;2514206;São José da Lagoa Tapada - PB;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-5.135627123820018
+5716;6;Município;2;%;78.95;2514453;São José dos Ramos - PB;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-4.422326119527503
+5739;6;Município;2;%;66.67;2514701;São José do Sabugi - PB;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-6.933994663732797
+5773;6;Município;2;%;66.67;2515609;Serra da Raiz - PB;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-4.048867872481594
+5786;6;Município;2;%;83.33;2515906;Serraria - PB;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-5.032549735743512
+5799;6;Município;2;%;83.33;2516003;Solânea - PB;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-3.337259583907237
+5823;6;Município;2;%;77.78;2516508;Taperoá - PB;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-4.535451642312511
+5879;6;Município;2;%;81.82;2600401;Água Preta - PE;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-3.6632541799778626
+6123;6;Município;2;%;80.0;2605905;Gameleira - PE;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-4.056174818950401
+6136;6;Município;2;%;81.82;2606309;Granito - PE;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-3.7428982270629407
+6195;6;Município;2;%;80.0;2607653;Itambé - PE;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-4.056174818950401
+6221;6;Município;2;%;66.67;2608057;Jatobá - PE;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-4.048867872481594
+6263;6;Município;2;%;81.25;2608750;Lagoa Grande - PE;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-3.7863117427329973
+6405;6;Município;2;%;66.67;2612109;Salgadinho - PE;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-4.048867872481594
+6485;6;Município;2;%;66.67;2613800;São Vicente Férrer - PE;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-4.048867872481594
+6543;6;Município;2;%;75.0;2615201;Terra Nova - PE;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-5.135627123820018
+6575;6;Município;2;%;66.67;2616001;Venturosa - PE;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-6.933994663732797
+6623;6;Município;2;%;83.33;2700607;Barra de São Miguel - AL;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-3.337259583907237
+6667;6;Município;2;%;80.0;2701605;Canapi - AL;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-4.056174818950401
+6685;6;Município;2;%;50.0;2702108;Colônia Leopoldina - AL;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-6.2824195374465015
+6709;6;Município;2;%;66.67;2702553;Estrela de Alagoas - AL;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-4.048867872481594
+6757;6;Município;2;%;66.67;2703700;Jaramataia - AL;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-4.048867872481594
+6839;6;Município;2;%;83.33;2705606;Novo Lino - AL;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-3.337259583907237
+6872;6;Município;2;%;78.57;2706422;Pariconha - AL;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-4.512285213303302
+6873;6;Município;2;%;66.67;2706422;Pariconha - AL;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-4.048867872481594
+6911;6;Município;2;%;83.33;2707206;Poço das Trincheiras - AL;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-3.337259583907237
+7005;6;Município;2;%;69.23;2709400;Viçosa - AL;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-3.7058629377299344
+7009;6;Município;2;%;66.67;2800100;Amparo do São Francisco - SE;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-4.048867872481594
+7020;6;Município;2;%;75.0;2800407;Arauá - SE;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-5.357427225881174
+7047;6;Município;2;%;83.33;2801108;Canhoba - SE;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-3.337259583907237
+7090;6;Município;2;%;85.71;2802304;Frei Paulo - SE;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-4.255246017977697
+7092;6;Município;2;%;81.82;2802403;Gararu - SE;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-3.7428982270629407
+7107;6;Município;2;%;75.0;2802700;Ilha das Flores - SE;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-5.135627123820018
+7144;6;Município;2;%;83.33;2803708;Macambira - SE;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-3.3854291965328027
+7185;6;Município;2;%;72.73;2804607;Nossa Senhora das Dores - SE;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-3.23691087849915
+7199;6;Município;2;%;83.33;2804904;Pacatuba - SE;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-3.337259583907237
+7260;6;Município;2;%;83.33;2806503;Santa Rosa de Lima - SE;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-3.3854291965328027
+7275;6;Município;2;%;66.67;2806800;São Domingos - SE;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-6.933994663732797
+7293;6;Município;2;%;50.0;2807303;Telha - SE;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-6.2824195374465015
+7316;6;Município;2;%;75.0;2900306;Acajutiba - BA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-5.357427225881174
+7331;6;Município;2;%;66.67;2900504;Érico Cardoso - BA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-6.933994663732797
+7384;6;Município;2;%;66.67;2901700;Antônio Cardoso - BA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-7.329425255229544
+7458;6;Município;2;%;80.0;2903102;Barra do Rocha - BA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-6.12012174421417
+7484;6;Município;2;%;82.35;2903607;Biritinga - BA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-3.6174289646914355
+7552;6;Município;2;%;84.62;2904902;Cachoeira - BA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-3.080041746609704
+7559;6;Município;2;%;83.33;2905008;Caculé - BA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-3.337259583907237
+7582;6;Município;2;%;88.24;2905503;Caldeirão Grande - BA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-3.4289525701005887
+7674;6;Município;2;%;66.67;2907400;Catolândia - BA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-10.473675760104227
+7690;6;Município;2;%;85.71;2907707;Chorrochó - BA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-4.255246017977697
+7747;6;Município;2;%;60.0;2909109;Coribe - BA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-8.373984038428866
+7870;6;Município;2;%;89.47;2911600;Governador Mangabeira - BA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-3.027236783188002
+7873;6;Município;2;%;66.67;2911659;Guajeru - BA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-4.048867872481594
+7913;6;Município;2;%;66.67;2912509;Ibipitanga - BA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-4.048867872481594
+7946;6;Município;2;%;87.5;2913309;Ichu - BA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-3.6706352386496226
+7952;6;Município;2;%;83.33;2913457;Igrapiúna - BA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-3.3854291965328027
+8032;6;Município;2;%;80.0;2915304;Itagimirim - BA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-4.173754939357541
+8084;6;Município;2;%;81.82;2916500;Itapicuru - BA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-3.7428982270629407
+8129;6;Município;2;%;50.0;2917359;Jaborandi - BA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-6.2824195374465015
+8170;6;Município;2;%;89.47;2918308;Jitaúna - BA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-3.027236783188002
+8190;6;Município;2;%;80.0;2918555;Jussari - BA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-6.12012174421417
+8214;6;Município;2;%;57.14;2919009;Lajedinho - BA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-13.586156613174914
+8226;6;Município;2;%;89.29;2919157;Lapão - BA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-3.0860244593215485
+8234;6;Município;2;%;85.71;2919306;Lençóis - BA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-4.255246017977697
+8262;6;Município;2;%;88.89;2919900;Macururé - BA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-3.216663739618326
+8292;6;Município;2;%;66.67;2920452;Mansidão - BA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-7.329425255229544
+8341;6;Município;2;%;66.67;2921450;Mirante - BA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-4.048867872481594
+8382;6;Município;2;%;87.5;2922250;Muquém do São Francisco - BA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-3.6706352386496226
+8408;6;Município;2;%;83.33;2922730;Nova Fátima - BA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-3.3854291965328027
+8418;6;Município;2;%;88.89;2922805;Nova Itarana - BA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-3.216663739618326
+8476;6;Município;2;%;81.82;2923902;Pau Brasil - BA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-3.7428982270629407
+8493;6;Município;2;%;50.0;2924207;Pedro Alexandre - BA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-6.2824195374465015
+8609;6;Município;2;%;70.0;2926509;Ribeira do Amparo - BA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-3.6026934846991625
+8659;6;Município;2;%;80.0;2927606;Santa Brígida - BA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-4.056174818950401
+8666;6;Município;2;%;87.5;2927804;Santa Cruz da Vitória - BA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-3.6706352386496226
+8676;6;Município;2;%;80.0;2928059;Santa Luzia - BA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-4.173754939357541
+8696;6;Município;2;%;80.0;2928505;Santa Terezinha - BA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-4.173754939357541
+8879;6;Município;2;%;83.33;2931806;Tremedal - BA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-3.337259583907237
+8946;6;Município;2;%;83.33;2933174;Varzedo - BA;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-5.032549735743512
+9048;6;Município;2;%;83.33;3101805;Alpercata - MG;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-3.3854291965328027
+9095;6;Município;2;%;80.0;3102803;Andrelândia - MG;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-4.056174818950401
+9099;6;Município;2;%;80.0;3102852;Angelândia - MG;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-4.056174818950401
+9113;6;Município;2;%;50.0;3103207;Araçaí - MG;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-6.2824195374465015
+9205;6;Município;2;%;50.0;3105301;Bandeira do Sul - MG;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-6.2824195374465015
+9442;6;Município;2;%;50.0;3110806;Campanário - MG;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-15.918067766472364
+9479;6;Município;2;%;80.0;3111606;Campos Gerais - MG;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-4.056174818950401
+9488;6;Município;2;%;81.82;3111903;Cana Verde - MG;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-3.7428982270629407
+9499;6;Município;2;%;80.0;3112059;Cantagalo - MG;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-4.056174818950401
+9572;6;Município;2;%;66.67;3113800;Carmésia - MG;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-7.329425255229544
+9597;6;Município;2;%;50.0;3114402;Carmo do Rio Claro - MG;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-6.2824195374465015
+9650;6;Município;2;%;87.5;3115458;Catuji - MG;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-3.6706352386496226
+9709;6;Município;2;%;66.67;3116704;Coimbra - MG;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-4.048867872481594
+9763;6;Município;2;%;83.33;3117876;Confins - MG;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-3.337259583907237
+9772;6;Município;2;%;83.33;3118106;Congonhas do Norte - MG;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-3.3854291965328027
+9930;6;Município;2;%;88.89;3121506;Desterro do Melo - MG;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-3.216663739618326
+9958;6;Município;2;%;88.89;3122207;Divinolândia de Minas - MG;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-3.216663739618326
+9959;6;Município;2;%;66.67;3122207;Divinolândia de Minas - MG;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-6.933994663732797
+10077;6;Município;2;%;50.0;3124708;Estrela do Indaiá - MG;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-6.2824195374465015
+10127;6;Município;2;%;83.33;3125903;Ferros - MG;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-3.337259583907237
+10158;6;Município;2;%;88.89;3126604;Francisco Dumont - MG;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-3.216663739618326
+10159;6;Município;2;%;66.67;3126604;Francisco Dumont - MG;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-6.933994663732797
+10211;6;Município;2;%;66.67;3127354;Glaucilândia - MG;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-6.933994663732797
+10214;6;Município;2;%;80.0;3127370;Goiabeira - MG;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-6.12012174421417
+10254;6;Município;2;%;88.89;3128204;Guaraciaba - MG;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-3.216663739618326
+10291;6;Município;2;%;60.0;3129004;Guiricema - MG;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-8.373984038428866
+10430;6;Município;2;%;87.5;3132008;Itacambira - MG;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-3.6706352386496226
+10462;6;Município;2;%;87.5;3132800;Itambé do Mato Dentro - MG;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-3.6706352386496226
+10471;6;Município;2;%;75.0;3133006;Itamonte - MG;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-5.135627123820018
+10543;6;Município;2;%;83.33;3134707;Jacinto - MG;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-3.337259583907237
+10562;6;Município;2;%;66.67;3135076;Jampruca - MG;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-10.473675760104227
+10634;6;Município;2;%;87.5;3136520;José Gonçalves de Minas - MG;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-3.6706352386496226
+10666;6;Município;2;%;89.47;3136959;Juvenília - MG;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-3.027236783188002
+10726;6;Município;2;%;87.5;3138302;Leandro Ferreira - MG;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-3.6706352386496226
+10822;6;Município;2;%;50.0;3140100;Marilac - MG;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-15.918067766472364
+10847;6;Município;2;%;66.67;3140530;Martins Soares - MG;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-6.933994663732797
+11046;6;Município;2;%;75.0;3144672;Nova Belém - MG;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-7.753112747923869
+11065;6;Município;2;%;50.0;3145059;Nova Porteirinha - MG;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-6.2824195374465015
+11132;6;Município;2;%;77.78;3146206;Ouro Verde de Minas - MG;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-4.6993054345740335
+11134;6;Município;2;%;87.5;3146206;Ouro Verde de Minas - MG;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-3.6706352386496226
+11185;6;Município;2;%;60.0;3147303;Paraisópolis - MG;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-4.942556511072832
+11214;6;Município;2;%;83.33;3147956;Patis - MG;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-5.032549735743512
+11262;6;Município;2;%;83.33;3149002;Pedra Dourada - MG;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-5.032549735743512
+11308;6;Município;2;%;75.0;3150000;Pescador - MG;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-5.357427225881174
+11312;6;Município;2;%;80.0;3150109;Piau - MG;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-4.173754939357541
+11342;6;Município;2;%;87.5;3150570;Pintópolis - MG;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-3.6706352386496226
+11385;6;Município;2;%;71.43;3151602;Planura - MG;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-3.4110930719277266
+11410;6;Município;2;%;80.0;3152131;Ponto Chique - MG;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-6.12012174421417
+11542;6;Município;2;%;85.71;3155108;Rio do Prado - MG;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-4.255246017977697
+11636;6;Município;2;%;80.0;3157278;Santa Bárbara do Monte Verde - MG;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-4.173754939357541
+11667;6;Município;2;%;80.0;3157658;Santa Helena de Minas - MG;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-4.056174818950401
+11671;6;Município;2;%;66.67;3157708;Santa Juliana - MG;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-6.933994663732797
+11686;6;Município;2;%;85.71;3158102;Santa Maria do Salto - MG;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-4.255246017977697
+11769;6;Município;2;%;66.67;3160009;Santo Antônio do Aventureiro - MG;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-4.048867872481594
+11848;6;Município;2;%;80.0;3161650;São Geraldo do Baixio - MG;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-4.173754939357541
+11889;6;Município;2;%;50.0;3162450;São João das Missões - MG;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-6.2824195374465015
+11890;6;Município;2;%;87.5;3162450;São João das Missões - MG;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-3.6706352386496226
+11948;6;Município;2;%;80.0;3163300;São José do Divino - MG;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-4.173754939357541
+12104;6;Município;2;%;75.0;3166600;Serra da Saudade - MG;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-5.357427225881174
+12144;6;Município;2;%;66.67;3167509;Simão Pereira - MG;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-7.329425255229544
+12160;6;Município;2;%;83.33;3167905;Tabuleiro - MG;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-3.3854291965328027
+12161;6;Município;2;%;66.67;3167905;Tabuleiro - MG;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-4.048867872481594
+12357;6;Município;2;%;66.67;3171501;Mathias Lobato - MG;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-4.048867872481594
+12439;6;Município;2;%;83.33;3201001;Boa Esperança - ES;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-3.337259583907237
+13172;6;Município;2;%;81.82;3502408;Anhumas - SP;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-3.7428982270629407
+13220;6;Município;2;%;75.0;3503356;Arco-Íris - SP;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-5.357427225881174
+13224;6;Município;2;%;84.62;3503406;Arealva - SP;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-3.080041746609704
+13405;6;Município;2;%;50.0;3507456;Borebi - SP;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-6.2824195374465015
+13467;6;Município;2;%;83.33;3508801;Cafelândia - SP;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-3.337259583907237
+13682;6;Município;2;%;85.71;3513850;Dirce Reis - SP;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-4.255246017977697
+13697;6;Município;2;%;66.67;3514205;Dolcinópolis - SP;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-4.048867872481594
+13701;6;Município;2;%;66.67;3514304;Dourado - SP;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-4.048867872481594
+13886;6;Município;2;%;85.71;3518008;Guarani d'Oeste - SP;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-4.255246017977697
+14305;6;Município;2;%;66.67;3527405;Lucélia - SP;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-4.048867872481594
+14366;6;Município;2;%;83.33;3528858;Marapoama - SP;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-5.032549735743512
+14454;6;Município;2;%;89.47;3530904;Mombuca - SP;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-3.027236783188002
+14653;6;Município;2;%;50.0;3535200;Palmeira d'Oeste - SP;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-6.2824195374465015
+14687;6;Município;2;%;75.0;3536000;Parapuã - SP;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-5.135627123820018
+14809;6;Município;2;%;50.0;3538907;Pirajuí - SP;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-6.2824195374465015
+14850;6;Município;2;%;88.89;3539905;Poloni - SP;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-3.216663739618326
+14903;6;Município;2;%;66.67;3540903;Pradópolis - SP;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-6.933994663732797
+14931;6;Município;2;%;66.67;3541505;Presidente Venceslau - SP;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-6.933994663732797
+15055;6;Município;2;%;80.0;3544251;Rosana - SP;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-4.056174818950401
+15105;6;Município;2;%;66.67;3545407;Salto Grande - SP;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-4.048867872481594
+15178;6;Município;2;%;83.33;3547205;Santana da Ponte Pensa - SP;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-5.032549735743512
+15198;6;Município;2;%;80.0;3547650;Santa Salete - SP;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-6.12012174421417
+15489;6;Município;2;%;50.0;3554201;Tejupá - SP;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-6.2824195374465015
+15516;6;Município;2;%;83.33;3554755;Trabiju - SP;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-3.3854291965328027
+15599;6;Município;2;%;83.33;3556404;Vargem Grande do Sul - SP;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-3.337259583907237
+15849;6;Município;2;%;60.0;4103602;Cambará - PR;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-4.942556511072832
+15893;6;Município;2;%;33.33;4104402;Cândido de Abreu - PR;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-8.515971202411409
+16152;6;Município;2;%;83.33;4108700;Grandes Rios - PR;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-3.3854291965328027
+16290;6;Município;2;%;77.78;4111308;Itaúna do Sul - PR;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-6.8451697498612765
+16639;6;Município;2;%;71.43;4117701;Palmeira - PR;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-5.906356069496922
+16711;6;Município;2;%;75.0;4119202;Pinhalão - PR;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-5.135627123820018
+16714;6;Município;2;%;83.33;4119251;Pinhal de São Bento - PR;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-5.032549735743512
+16859;6;Município;2;%;50.0;4121802;Ribeirão Claro - PR;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-10.532888648168099
+17061;6;Município;2;%;66.67;4125753;São Pedro do Iguaçu - PR;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-4.048867872481594
+17102;6;Município;2;%;87.5;4126405;Sertaneja - PR;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-3.6706352386496226
+17116;6;Município;2;%;84.62;4126678;Tamarana - PR;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-3.080041746609704
+17246;6;Município;2;%;88.24;4200051;Abdon Batista - SC;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-3.4289525701005887
+17345;6;Município;2;%;66.67;4201950;Balneário Arroio do Silva - SC;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-4.048867872481594
+17369;6;Município;2;%;57.14;4202107;Barra Velha - SC;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-5.325757336615702
+18190;6;Município;2;%;87.5;4215752;São Bernardino - SC;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-3.6706352386496226
+18606;6;Município;2;%;88.24;4302220;Boa Vista do Cadeado - RS;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-3.4289525701005887
+18829;6;Município;2;%;66.67;4305207;Cerro Largo - RS;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-4.048867872481594
+18953;6;Município;2;%;50.0;4306429;Dois Irmãos das Missões - RS;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-6.2824195374465015
+18977;6;Município;2;%;50.0;4306734;Doutor Maurício Cardoso - RS;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-6.2824195374465015
+19006;6;Município;2;%;87.5;4306957;Entre Rios do Sul - RS;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-3.6706352386496226
+19096;6;Município;2;%;66.67;4308250;Floriano Peixoto - RS;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-7.329425255229544
+19422;6;Município;2;%;88.89;4312138;Mato Castelhano - RS;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-3.216663739618326
+19505;6;Município;2;%;50.0;4312757;Nova Alvorada - RS;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-6.2824195374465015
+19978;6;Município;2;%;85.71;4318432;São João do Polêsine - RS;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-4.255246017977697
+19984;6;Município;2;%;83.33;4318457;São José das Missões - RS;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-3.3854291965328027
+20169;6;Município;2;%;50.0;4320800;Soledade - RS;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-6.2824195374465015
+20637;6;Município;2;%;50.0;5006259;Novo Horizonte do Sul - MS;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-6.2824195374465015
+20652;6;Município;2;%;84.62;5006408;Pedro Gomes - MS;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-3.080041746609704
+20693;6;Município;2;%;66.67;5007703;Sete Quedas - MS;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-4.048867872481594
+20786;6;Município;2;%;85.71;5101605;Barão de Melgaço - MT;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-4.255246017977697
+20893;6;Município;2;%;66.67;5103601;Dom Aquino - MT;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-4.048867872481594
+20943;6;Município;2;%;66.67;5104609;Itiquira - MT;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-6.933994663732797
+21026;6;Município;2;%;87.5;5106190;Nova Santa Helena - MT;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-3.6706352386496226
+21175;6;Município;2;%;80.0;5107404;São Pedro da Cipa - MT;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-4.056174818950401
+21204;6;Município;2;%;75.0;5107792;Santo Antônio do Leste - MT;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-5.357427225881174
+21250;6;Município;2;%;50.0;5108105;Tesouro - MT;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-15.918067766472364
+21262;6;Município;2;%;80.0;5108352;Vale de São Domingos - MT;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-6.12012174421417
+21314;6;Município;2;%;75.0;5200209;Água Limpa - GO;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-7.753112747923869
+21433;6;Município;2;%;66.67;5203575;Bonópolis - GO;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-4.048867872481594
+21452;6;Município;2;%;83.33;5203962;Buritinópolis - GO;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-3.3854291965328027
+21469;6;Município;2;%;50.0;5204250;Cachoeira Dourada - GO;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-6.2824195374465015
+21529;6;Município;2;%;50.0;5205208;Caturaí - GO;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-6.2824195374465015
+21617;6;Município;2;%;66.67;5207402;Edéia - GO;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2777;6572;15 anos;-4.048867872481594
+21619;6;Município;2;%;80.0;5207402;Edéia - GO;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-4.056174818950401
+21626;6;Município;2;%;85.71;5207535;Faina - GO;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-4.255246017977697
+21754;6;Município;2;%;83.33;5210562;Itaguari - GO;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-5.032549735743512
+21776;6;Município;2;%;84.21;5211305;Itarumã - GO;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-3.1771028741046443
+21814;6;Município;2;%;86.67;5212105;Joviânia - GO;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-3.941711745265432
+21832;6;Município;2;%;75.0;5212600;Mairipotaba - GO;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-5.357427225881174
+21858;6;Município;2;%;85.71;5213053;Mimoso de Goiás - GO;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2776;6572;15 anos;-4.255246017977697
+21915;6;Município;2;%;80.0;5214408;Nazário - GO;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;5;2777;6572;15 anos;-4.056174818950401
+22156;6;Município;2;%;50.0;5220058;São João da Paraúna - GO;2513;Taxa de alfabetização das pessoas de 15 anos ou mais de idade;2022;2022;4;2776;6572;15 anos;-11.275788658499334
